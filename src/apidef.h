@@ -1,5 +1,5 @@
 #ifndef _APIDEF_H_
-#define _TAPIDEF_H_
+#define _APIDEF_H_
 
 #include <windows.h>
 
